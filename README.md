@@ -4,7 +4,7 @@ In this report, all about Deep Learning and I covered both Supervised and Unsupe
 Click to see the complete documentation of this repository: <br>
 https://drive.google.com/file/d/1EIQthKK-0DTmKVE5tnm3JYy68PBBcR4h/view?usp=sharing
 
-Click to see my book on Deep Learning:
+Click to see my book on Deep Learning: <br>
 https://www.amazon.com/Deep-Learning-Objective-Amir-Ali-ebook/dp/B07S9FHD7R/
 
 The Topic that are covered in this repository are: <br>
